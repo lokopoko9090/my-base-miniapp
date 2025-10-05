@@ -1,10 +1,10 @@
 {
   "accountAssociation": {
-    "signature": "0x0000000000000000000000000000000000000000",
-    "message": "base-miniapp-verification"
+    "message": "base-miniapp-verification",
+    "signature": "0x" 
   },
   "miniapp": {
-    "url": "https://your-miniapp.vercel.app",
+    "url": "https://my-base-miniapp-9fo2.vercel.app/",
     "name": "My Base Mini App"
   },
   "baseBuilder": {
