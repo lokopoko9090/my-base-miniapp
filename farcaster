@@ -1,7 +1,7 @@
 {
   "accountAssociation": {
     "message": "base-miniapp-verification",
-    "signature": "0x" 
+    "signature": "0x7f5a6b9d6e2c1f4a8b9d3e5f1a2c4d6e7b8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b"
   },
   "miniapp": {
     "url": "https://my-base-miniapp-9fo2.vercel.app/",
